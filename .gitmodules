@@ -1,6 +1,3 @@
-[submodule "ava"]
-	path = ava
-	url = git@github.com:Lazarus404/ava.git
 [submodule "crucible"]
 	path = crucible
 	url = git@github.com:Lazarus404/crucible.git
@@ -16,3 +13,27 @@
 [submodule "ripple"]
 	path = ripple
 	url = git@github.com:Lazarus404/ripple.git
+[submodule "oracle-train"]
+	path = oracle-train
+	url = git@github.com:Lazarus404/oracle-train.git
+[submodule "gel"]
+	path = gel
+	url = git@github.com:Lazarus404/gel.git
+[submodule "wordtree"]
+	path = wordtree
+	url = git@github.com:Lazarus404/wordtree.git
+[submodule "snack"]
+	path = snack
+	url = git@github.com:Lazarus404/snack.git
+[submodule "vocaleyes"]
+	path = vocaleyes
+	url = git@github.com:Lazarus404/vocaleyes.git
+[submodule "wobblertc"]
+	path = wobblertc
+	url = git@github.com:Lazarus404/wobblertc.git
+[submodule "docbrown"]
+	path = docbrown
+	url = git@github.com:Lazarus404/docbrown.git
+[submodule "switchboard"]
+	path = switchboard
+	url = git@github.com:Lazarus404/switchboard.git
