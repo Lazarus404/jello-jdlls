@@ -1,0 +1,18 @@
+[submodule "ava"]
+	path = ava
+	url = git@github.com:Lazarus404/ava.git
+[submodule "crucible"]
+	path = crucible
+	url = git@github.com:Lazarus404/crucible.git
+[submodule "hush"]
+	path = hush
+	url = git@github.com:Lazarus404/hush.git
+[submodule "motive"]
+	path = motive
+	url = git@github.com:Lazarus404/motive.git
+[submodule "oracle"]
+	path = oracle
+	url = git@github.com:Lazarus404/oracle.git
+[submodule "ripple"]
+	path = ripple
+	url = git@github.com:Lazarus404/ripple.git
